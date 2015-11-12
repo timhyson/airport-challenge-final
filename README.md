@@ -55,6 +55,10 @@ I want to ensure a flying plane cannot take off and cannot be in an airport
 
 As an air traffic controller
 So the system is consistent and correctly reports plane status and location
+I want to ensure a flying plane cannot take off and cannot be in an airport
+
+As an air traffic controller
+So the system is consistent and correctly reports plane status and location
 I want to ensure a plane that is not flying cannot land and must be in an airport
 
 As an air traffic controller
